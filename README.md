@@ -25,6 +25,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
    ```bash
    java Calculadora.java
     ````
+
 ## 𓍝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
