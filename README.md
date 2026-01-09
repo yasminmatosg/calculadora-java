@@ -25,10 +25,10 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
    git clone [https://github.com/yasminmatosg/calculadora-java.git](https://github.com/yasminmatosg/calculadora-java.git)
 2. Entre no diretório:
    ```bash
-    cd Calculadora.java
+    cd calculadora-java
 4. Inicie a aplicação: Como você utiliza a versão atual do Java, basta executar o arquivo .java diretamente:
    ```bash
-   java src/Main.java
+   java Calculadora.java
     ````
 ## 𓍝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
