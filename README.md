@@ -1,9 +1,5 @@
-# ⚙️ Calculadora em Java
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=282a36" alt="Java Version">
-  <img src="https://img.shields.io/badge/License-MIT-ff79c6?style=for-the-badge" alt="MIT License">
-</p>
+## ⚙️ Calculadora em Java
 
 Este projeto é uma calculadora funcional desenvolvida em Java, focada em praticar os fundamentos da linguagem, como estruturas condicionais, laços de repetição e manipulação de entradas do usuário via console.
 
@@ -33,3 +29,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 <p align="center">Desenvolvido com Java por <b>Yasmin</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=282a36" alt="Java Version">
+  <img src="https://img.shields.io/badge/License-MIT-ff79c6?style=for-the-badge" alt="MIT License">
+</p>
