@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚙️ Calculadora em Java
 
 <p align="center">
