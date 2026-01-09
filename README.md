@@ -22,7 +22,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/calculadora-java.git](https://github.com/SEU_USUARIO/calculadora-java.git)
+   git clone [https://github.com/yasminmatosg/calculadora-java.git](https://github.com/yasminmatosg/calculadora-java.git)
 2. Entre no diretório:
    ```bash
     cd Calculadora.java
