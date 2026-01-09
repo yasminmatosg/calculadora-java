@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/License-MIT-ff79c6?style=for-the-badge" alt="MIT License">
 </p>
 
-## 📂 Descrição
 Este projeto é uma calculadora funcional desenvolvida em Java, focada em praticar os fundamentos da linguagem, como estruturas condicionais, laços de repetição e manipulação de entradas do usuário via console.
 
 ## 🔮 Funcionalidades
