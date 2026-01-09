@@ -21,7 +21,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 2. Entre no diretório:
    ```bash
     cd calculadora-java
-4. Inicie a aplicação. Na versão atual do Java, basta executar o arquivo .java diretamente:
+3. Inicie a aplicação. Na versão atual do Java, basta executar o arquivo .java diretamente:
    ```bash
    java Calculadora.java
     ````
